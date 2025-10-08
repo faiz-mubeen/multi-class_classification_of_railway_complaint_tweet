@@ -6,6 +6,7 @@ we prepare the dataset for this problem from scratch.
 we used BERT transformer in our project.
 
 •	Distinguishes between complaints and non-complaints with an accuracy of 98% outperforming the baseline model and perform further multi-class classification (into 12 predefined types) with an accuracy of 68.18%. 
+![Image](https://github.com/faiz-mubeen/multi-class_classification_of_railway_complaint_tweet/blob/main/test_scores.png)
 
 •	Further categorizes complaints into 12 predefined types to enhance query resolution workflows. 
 
